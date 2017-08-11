@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is index
+=======
+this is index page
+>>>>>>> 371b58985d18724583f419294b8eefec8c785021
